@@ -1,4 +1,4 @@
-<script>
+
 	var nav = document.getElementById('kirman-scrool-fixed-top');
 
        window.onscroll = function () {
@@ -14,4 +14,4 @@
             nav.style.top = 100;
           }
        }
-</script>
+

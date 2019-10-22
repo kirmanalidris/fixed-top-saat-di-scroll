@@ -7,4 +7,4 @@ Your-elment-here
 
 Dan gunakan rawcdn di bawah ini untuk memanggil script tersebut
 
-https://rawcdn.githack.com/kirmanalidris/javascript/6d51135b4ee6344bf3514faed74048407f45795c/fixed-top-saat-di-secroll.js;
+https://rawcdn.githack.com/kirmanalidris/javascript/6d51135b4ee6344bf3514faed74048407f45795c/fixed-top-saat-di-secroll.js

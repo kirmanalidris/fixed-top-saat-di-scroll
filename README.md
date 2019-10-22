@@ -7,4 +7,4 @@ Your-elment-here
 
 Dan dunakan raw fi bawah ini untuk memanggil script tersebut
 
-&lt;script src=&quot;https://raw.githack.com/kirmanalidris/javascript/master/fixed-top-saat-di-secroll.js&quot&gt;&lt;/script&gt;
+&lt;script src=&quot;https://rawcdn.githack.com/kirmanalidris/javascript/6d51135b4ee6344bf3514faed74048407f45795c/fixed-top-saat-di-secroll.js;
